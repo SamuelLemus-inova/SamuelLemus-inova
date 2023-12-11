@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelLemus-inova
-- 👀 I’m interested in Data - Reporting, Visualization, Analytics, EPIC, EMR, AI
-- 🌱 I’m currently learning SQL, Python, GitHub, Tableau, AI
+- 👀 I’m interested in Data - Reporting, Visualization, Analytics, EPIC, EMR, AI, SQL, Python, GitHub, Tableau.
+- 🌱 I’m currently learning SQL, Tableau, AI.
 - 💞️ I’m looking to collaborate on whatever I can that will help improve the skills I seek to be a better developer.
 - 📫 How to reach me; email me.
 
